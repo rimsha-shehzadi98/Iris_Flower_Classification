@@ -144,15 +144,15 @@ Setosa
 
 ### Dataset Preview
 
-![Dataset Preview](screenshots/Dataset-preview.png)
+![Dataset-preview](screenshots/Dataset-preview.png)
 
 ### Species Distribution Graph
 
-![Species Distribution](screenshots/Dataset-Distribution-graph.png)
+![Dataset-Distribution-graph](screenshots/Dataset-Distribution-graph.png)
 
 ### Scatter Plot Analysis
 
-![Scatter Plot](screenshots/Scatter-plot.png)
+![Scatter-plot](screenshots/Scatter-plot.png)
 
 ### Correlation Heatmap
 
@@ -160,15 +160,15 @@ Setosa
 
 ### Model Evaluation output
 
-![Evaluation Output](screenshots/Model-Evaluation-output.png)
+![Model-Evaluation-output](screenshots/Model-Evaluation-output.png)
 
 ### Model Accuracy Comparison
 
-![Accuracy Comparison](screenshots/Model-Accuracy-Comparison.png)
+![Model-Accuracy-Comparison](screenshots/Model-Accuracy-Comparison.png)
 
 ### Prediction Result
 
-![Prediction Result](screenshots/Realtime-Prediction-Result.png)
+![Realtime-Prediction-Result](screenshots/Realtime-Prediction-Result.png)
 
 ---
 

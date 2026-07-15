@@ -10,25 +10,25 @@ The objective of this project is to build an AI-powered classification model cap
 
 The project follows the standard Machine Learning pipeline:
 
-* Data Loading
-* Data Exploration
-* Data Visualization
-* Data Preprocessing
-* Model Training
-* Model Evaluation
-* Performance Comparison
-* Prediction on New Data
+- Data Loading
+- Data Exploration
+- Data Visualization
+- Data Preprocessing
+- Model Training
+- Model Evaluation
+- Performance Comparison
+- Prediction on New Data
 
 ---
 
 ## 🎯 Objectives
 
-* Understand the fundamentals of supervised learning
-* Explore and analyze a real-world dataset
-* Train classification models using Scikit-Learn
-* Evaluate model performance using accuracy metrics
-* Compare multiple machine learning algorithms
-* Predict flower species from unseen data
+- Understand the fundamentals of supervised learning
+- Explore and analyze a real-world dataset
+- Train classification models using Scikit-Learn
+- Evaluate model performance using accuracy metrics
+- Compare multiple machine learning algorithms
+- Predict flower species from unseen data
 
 ---
 
@@ -38,36 +38,36 @@ The project uses the Iris Dataset, one of the most popular datasets in Machine L
 
 ### Features
 
-| Feature      | Description                    |
-| ------------ | ------------------------------ |
+| Feature | Description |
+|----------|-------------|
 | Sepal Length | Length of sepal in centimeters |
-| Sepal Width  | Width of sepal in centimeters  |
+| Sepal Width | Width of sepal in centimeters |
 | Petal Length | Length of petal in centimeters |
-| Petal Width  | Width of petal in centimeters  |
+| Petal Width | Width of petal in centimeters |
 
 ### Target Classes
 
-* Setosa
-* Versicolor
-* Virginica
+- Setosa
+- Versicolor
+- Virginica
 
 ### Dataset Statistics
 
-* Total Samples: 150
-* Features: 4
-* Classes: 3
+- Total Samples: 150
+- Features: 4
+- Classes: 3
 
 ---
 
 ## 🛠️ Technologies Used
 
-* Python
-* Google Colab
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-Learn
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
 
 ---
 
@@ -105,16 +105,16 @@ A classification algorithm that predicts classes based on the nearest data point
 
 The dataset was divided into:
 
-* Training Data: 80%
-* Testing Data: 20%
+- Training Data: 80%
+- Testing Data: 20%
 
 Evaluation Metrics:
 
-* Accuracy Score
-* Precision
-* Recall
-* F1-Score
-* Classification Report
+- Accuracy Score
+- Precision
+- Recall
+- F1-Score
+- Classification Report
 
 Both models achieved excellent classification performance on the testing dataset.
 
@@ -124,19 +124,16 @@ Both models achieved excellent classification performance on the testing dataset
 
 The trained model can classify a new flower species using measurements provided by the user.
 
-Example Input:
+### Example Input
 
-Sepal Length = 5.1 cm
+- Sepal Length = 5.1 cm
+- Sepal Width = 3.5 cm
+- Petal Length = 1.4 cm
+- Petal Width = 0.2 cm
 
-Sepal Width = 3.5 cm
+### Predicted Output
 
-Petal Length = 1.4 cm
-
-Petal Width = 0.2 cm
-
-Predicted Output:
-
-Setosa
+**Setosa**
 
 ---
 
@@ -170,27 +167,29 @@ Setosa
 
 ![Real-Time Prediction Result](screenshots/Realtime-Prediction-Result.png)
 
+---
+
 ## 🚀 Learning Outcomes
 
 Through this project, I gained practical experience in:
 
-* Data Analysis
-* Data Visualization
-* Supervised Machine Learning
-* Classification Algorithms
-* Model Evaluation Techniques
-* Predictive Analytics
-* AI Project Development
+- Data Analysis
+- Data Visualization
+- Supervised Machine Learning
+- Classification Algorithms
+- Model Evaluation Techniques
+- Predictive Analytics
+- AI Project Development
 
 ---
 
 ## 🔮 Future Improvements
 
-* Implement Random Forest Classifier
-* Add Support Vector Machine (SVM)
-* Develop a Web-Based Prediction Interface
-* Deploy the Model Using Streamlit
-* Test Additional Real-World Datasets
+- Implement Random Forest Classifier
+- Add Support Vector Machine (SVM)
+- Develop a Web-Based Prediction Interface
+- Deploy the Model Using Streamlit
+- Test Additional Real-World Datasets
 
 ---
 

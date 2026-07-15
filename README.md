@@ -144,33 +144,31 @@ Setosa
 
 ### Dataset Preview
 
-![Dataset Preview](screenshots/Dataset preview.png)
+![Dataset Preview](screenshots/Dataset-preview.png)
 
 ### Species Distribution Graph
 
-![Species Distribution](screenshots/Dataset Distribution graph.png)
+![Species Distribution Graph](screenshots/Dataset-Distribution-graph.png)
 
 ### Scatter Plot Analysis
 
-![Scatter Plot](screenshots/Scatter plot.png)
+![Scatter Plot Analysis](screenshots/Scatter-plot.png)
 
 ### Correlation Heatmap
 
-![Heatmap](screenshots/Heatmap.png)
+![Correlation Heatmap](screenshots/Heatmap.png)
 
-### Model Evaluation output
+### Model Evaluation Output
 
-![Evaluation Output](screenshots/Model Evaluation output.png)
+![Model Evaluation Output](screenshots/Model-Evaluation-output.png)
 
 ### Model Accuracy Comparison
 
-![Accuracy Comparison](screenshots/Model Accuracy Comparison.png)
+![Model Accuracy Comparison](screenshots/Model-Accuracy-Comparison.png)
 
-### Prediction Result
+### Real-Time Prediction Result
 
-![Prediction Result](screenshots/Realtime Prediction Result.png)
-
----
+![Real-Time Prediction Result](screenshots/Realtime-Prediction-Result.png)
 
 ## 🚀 Learning Outcomes
 
